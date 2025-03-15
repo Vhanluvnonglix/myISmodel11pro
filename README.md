@@ -1,7 +1,7 @@
 ## คำอธิบาย
 โปรเจคนี้พัฒนาโมเดลการเรียนรู้ของเครื่อง (Machine Learning) และโมเดลโครงข่ายประสาทเทียม (Neural Network) โดยใช้ Dataset แบบ Regression ทำนายเกี่ยวกับราคาบ้านและศึกษาผลกระทบของนโยบายการเงิน
 
-## แต่ละไฟล์รวมทุกขั้นตอนในการพัฒนา Model (Dataset, Prepare Data, training, Predicted) และ Coding web application ไว้แล้วค่ะ
+## แต่ละไฟล์รวมทุกขั้นตอนในการพัฒนา Model (Dataset, Prepare Data, Training, Predicted) และ Coding web application ไว้แล้วค่ะ
 ## ไฟล์ที่รวมอยู่ในโปรเจค มีดังนี้..
 1. **DemoML.py**  
    - เป็นไฟล์ที่มีโค้ดสำหรับการพัฒนา **Machine Learning Model** ซึ่งมี Dataset และแสดงขั้นตอนการเตรียมข้อมูล การฝึกโมเดล Random Forest, Gradint Boosting รวมถึงการประเมินผลของโมเดลเกี่ยวกับราคาบ้าน
