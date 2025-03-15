@@ -1,5 +1,6 @@
 import streamlit as st
 from tensorflow.keras.models import Sequential
+
 from tensorflow.keras.layers import Dense, Dropout, BatchNormalization
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.callbacks import EarlyStopping
@@ -8,6 +9,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.impute import SimpleImputer
 from tensorflow.keras.regularizers import l2
 from sklearn.preprocessing import MinMaxScaler
+from tensorflow.keras.models import Sequential
+
 
 import streamlit as st
 import numpy as np
